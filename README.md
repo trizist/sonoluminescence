@@ -1,6 +1,7 @@
 # 🎧 **Sonoluminescence: The Mechanics of Turning Sound into Light**  
 **Repository**: https://github.com/trizist/sonoluminescence  
-**DOI**: [10.5281/zenodo.19312146](https://doi.org/10.5281/zenodo.19312146)  
+**DOI**: [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19312146-blue.svg)](https://doi.org/10.5281/zenodo.19312146)  
+**ORCID**: [![ORCID](https://img.shields.io/badge/orcid-0009-0008-3968-2252-blue.svg)](https://orcid.org/0009-0008-3968-2252)  
 **Published in**: *Journal of Applied Physics*, v1.10, Vol. 1, Article 01001 (2026)  
 **Author**: Umair Abbas  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Attribution required for reuse.
@@ -125,7 +126,13 @@ You are free to:
 **🔗 Explore the Zenodo Record**: [https://doi.org/10.5281/zenodo.19312146](https://doi.org/10.5281/zenodo.19312146)  
 **🔗 GitHub Repository**: [https://github.com/trizist/sonoluminescence](https://github.com/trizist/sonoluminescence)  
 **🔗 Author Profile**: [umairsiddiquie.academia.edu](https://umairsiddiquie.academia.edu/)  
+**🔗 ORCID**: [https://orcid.org/0009-0008-3968-2252](https://orcid.org/0009-0008-3968-2252)
 
 ---
 
 *This repository is part of a larger project exploring the intersection of physics, cognition, and art — where listening becomes an act of justice, memory, and reconciliation.*
+
+---
+
+✅ **ORCID Badge**: [![ORCID](https://img.shields.io/badge/orcid-0009-0008-3968-2252-blue.svg)](https://orcid.org/0009-0008-3968-2252)  
+✅ **DOI Badge**: [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19312146-blue.svg)](https://doi.org/10.5281/zenodo.19312146)
