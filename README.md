@@ -7,7 +7,7 @@
 </a>  
 **Published in**: *Journal of Applied Physics*, v1.10, Vol. 1, Article 01001 (2026)  
 **Author**: Umair Abbas  
-**License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Attribution required for reuse.
+**License**: [4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgreen.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
