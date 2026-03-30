@@ -141,4 +141,4 @@ You are free to:
   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" width="16" height="16" style="vertical-align: middle; margin-right: 4px;">
   <span style="vertical-align: middle;">ORCID: 0009-0008-3968-2252</span>
 </a>
-**DOI**: [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19312146-blue.svg)](https://doi.org/10.5281/zenodo.19312146)
+[DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19312146-blue.svg)](https://doi.org/10.5281/zenodo.19312146)
