@@ -1,7 +1,10 @@
 # 🎧 **Sonoluminescence: The Mechanics of Turning Sound into Light**  
 **Repository**: https://github.com/trizist/sonoluminescence  
 **DOI**: [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19312146-blue.svg)](https://doi.org/10.5281/zenodo.19312146)  
-**ORCID**: [![ORCID](https://img.shields.io/badge/orcid-0009-0008-3968-2252-blue.svg)](https://orcid.org/0009-0008-3968-2252)  
+**ORCID**: <a href="https://orcid.org/0009-0008-3968-2252" target="_blank">
+  <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD" width="16" height="16" style="vertical-align: middle; margin-right: 4px;">
+  <span style="vertical-align: middle;">ORCID: 0009-0008-3968-2252</span>
+</a> 
 **Published in**: *Journal of Applied Physics*, v1.10, Vol. 1, Article 01001 (2026)  
 **Author**: Umair Abbas  
 **License**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Attribution required for reuse.
